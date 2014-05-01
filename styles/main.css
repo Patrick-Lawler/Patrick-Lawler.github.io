@@ -198,3 +198,17 @@ display: block;
 font-weight: bold;
 z-index: 9999;
 }
+
+@media only screen and (max-width: 840px) {
+  .sub-head.left {
+    padding-top: 27px;
+  }
+  .sub-head.left img {
+    height: 60%;
+  }
+  .rent-red-link,
+  .rent-red-link:hover {
+    text-align: center;
+    padding-left: 0;
+  }
+}
