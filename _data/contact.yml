@@ -3,11 +3,11 @@ phone: (805) 540-4089
 social:
   - name: twitter
     url: https://twitter.com/patricklawler
-    image_url: http://www.google.com/s2/u/0/favicons?domain=twitter.com
+    image_url: http://www.google.com/s2/favicons?domain=http://twitter.com
   - name: facebook
     url: https://www.facebook.com/ThePatrickLawler
-    image_url: http://www.google.com/s2/u/0/favicons?domain=www.facebook.com
+    image_url: http://www.google.com/s2/favicons?domain=http://www.facebook.com
   - name: vimeo
     url: http://vimeo.com/patricklawler
-    image_url: http://www.google.com/s2/u/0/favicons?domain=vimeo.com
+    image_url: http://www.google.com/s2/favicons?domain=http://vimeo.com
 
