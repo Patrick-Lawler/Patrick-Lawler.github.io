@@ -1,3 +1,6 @@
+- type: vimeo
+  title: Lighty
+  id: 122166099
 - type: youtube
   id: GMyovLyizqc
   title: Jarren Benton - You Don’t Know Me
@@ -10,9 +13,6 @@
 - type: vimeo
   title: NYC From Above
   id: 111610649
-- type: vimeo
-  title: LRG Girls Holiday 2014
-  id: 108167443
 - type: youtube
   id: x-xri9R5560
   title: Elijah Blake - WICKED
@@ -25,6 +25,9 @@
 - type: youtube
   id: 51kv3mjfRQU
   title: 2015 Audi A3 Family in 4K UltraHD
+- type: vimeo
+  title: LRG Girls Holiday 2014
+  id: 108167443
 - type: vimeo
   id: 93311017
 - type: youtube
