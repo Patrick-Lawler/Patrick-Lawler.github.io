@@ -34,13 +34,15 @@
     var thumb = $(e).find('.thumbnail');
     var title = $(e).find('.title');
     //var url = '//www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3D' + vidId + '&format=json'
-    // var url = '//gdata.youtube.com/feeds/api/videos/' + vidId + '?v=2&alt=jsonc';
+    //var url = '//gdata.youtube.com/feeds/api/videos/' + vidId + '?v=2&alt=jsonc';
     var url = 'https://www.googleapis.com/youtube/v3/videos?part=snippet&id=' + vidId + '&key=' + ytApiKey;
     $.getJSON(url, function(data) {
-      console.log(data);
-      var vInfo = data.data;
-      $(e).data('height', vInfo.height);
-      $(e).data('width', vInfo.width);
+      var v = data.items[0];
+      if (!v) return;
+      var vInfo = v.snippet;
+      var vThumb = vInfo.thumbnails.maxres;
+      $(e).data('height', vThumb.height);
+      $(e).data('width', vThumb.width);
       if (!title.text()) {
         title.text(vInfo.title);
       }
