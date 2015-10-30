@@ -2,6 +2,7 @@
 
 (function($) {
 
+  var ytApiKey = 'AIzaSyBdtcDBCcXv10H-VpHFoeRozS6QSsZZkUw';
   var topContainer = $('.reel-container');
   var botContainer = $('.secondary-container');
   var reelContainer = $('#reel');
@@ -33,8 +34,10 @@
     var thumb = $(e).find('.thumbnail');
     var title = $(e).find('.title');
     //var url = '//www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3D' + vidId + '&format=json'
-    var url = '//gdata.youtube.com/feeds/api/videos/' + vidId + '?v=2&alt=jsonc';
+    // var url = '//gdata.youtube.com/feeds/api/videos/' + vidId + '?v=2&alt=jsonc';
+    var url = 'https://www.googleapis.com/youtube/v3/videos?part=snippet&id=' + vidId + '&key=' + ytApiKey;
     $.getJSON(url, function(data) {
+      console.log(data);
       var vInfo = data.data;
       $(e).data('height', vInfo.height);
       $(e).data('width', vInfo.width);
