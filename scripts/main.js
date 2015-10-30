@@ -40,9 +40,8 @@
       var v = data.items[0];
       if (!v) return;
       var vInfo = v.snippet;
-      var vThumb = vInfo.thumbnails.maxres;
-      $(e).data('height', vThumb.height);
-      $(e).data('width', vThumb.width);
+      // $(e).data('height', vInfo.height);
+      // $(e).data('width', vInfo.width);
       if (!title.text()) {
         title.text(vInfo.title);
       }
