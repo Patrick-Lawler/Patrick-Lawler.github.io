@@ -1,3 +1,13 @@
+- type: youtube
+  id: JMMdcLEgbs
+  title: Naked 3D Fitness Tracker
+- type: youtube
+  id: 27BH7yCf9rQ
+  title: SF Deltas - To The Naysayers
+  - type: youtube
+  id: UqNUo1J1_Ag
+  title: LRG x STAR WARS - Motion Graphic Animations
+  
 - type: vimeo
   title: Diamondstein - Nat Sherman Arpeggiator
   id: 131379779
@@ -7,6 +17,9 @@
 - type: vimeo
   title: Los Angeles from Above
   id: 125164556
+  - type: youtube
+  id: HBHnGSuh-mw
+  title: Depths
 - type: youtube
   id: GMyovLyizqc
   title: Jarren Benton - You Don’t Know Me
@@ -16,6 +29,15 @@
 - type: youtube
   id: Zbtc-unamZs
   title: Athos - Upgrade Your Gear, Upgrade Yourself
+  - type: youtube
+  id: 0tGIf_zO7Bc
+  title: BB-8 Explores Endor
+  - type: youtube
+  id: 7Ec-ossXcJA
+  title: Matter Displacement Selfie Stick!
+  - type: youtube
+  id: Ppe1mkpWd5A
+  title: Chameleons!
 - type: vimeo
   title: Glowbug - Death of the Party (NSFW)
   id: 117977024
