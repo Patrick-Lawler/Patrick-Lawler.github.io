@@ -8,15 +8,6 @@
   id: JTe7amz6OL4
   title: Mahalo Maui
 - type: youtube
-  id: tX0Ty-4z9rw
-  title: Dylan Owen - “There’s more to life”
-- type: youtube
-  id: noHhTVxtDKw
-  title: El-P & Killer Mike in the Dominican Republic - The Craft of Hip Hop
-- type: youtube
-  id: VH6xkzS4Xj4
-  title: Born to Rap 2 - Run the Jewels Discuss the Art of the Live Show
-- type: youtube
   id: UqNUo1J1_Ag
   title: LRG x STAR WARS
 - type: vimeo
@@ -25,6 +16,15 @@
 - type: vimeo
   title: Light
   id: 122166099
+- type: youtube
+  id: tX0Ty-4z9rw
+  title: Dylan Owen - “There’s more to life”
+- type: youtube
+  id: noHhTVxtDKw
+  title: El-P & Killer Mike in the Dominican Republic - The Craft of Hip Hop
+- type: youtube
+  id: VH6xkzS4Xj4
+  title: Born to Rap 2 - Run the Jewels Discuss the Art of the Live Show
 - type: youtube
   id: 2jM1h6FpmYg
   title: Street League - World Tour
