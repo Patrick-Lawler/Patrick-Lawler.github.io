@@ -10,6 +10,9 @@
 - type: youtube
   id: 1lamVH0iqMI
   title: Rain Man - Bring Back The Summer (ft. OLY)
+ - type: vimeo
+  title: Light
+  id: 122166099
 - type: youtube
   id: o2rDcTyQTMI
   title: Malibu from Above
@@ -22,9 +25,6 @@
 - type: vimeo
   title: Diamondstein - Nat Sherman Arpeggiator
   id: 131379779
-- type: vimeo
-  title: Light
-  id: 122166099
 - type: youtube
   id: noHhTVxtDKw
   title: El-P & Killer Mike in the Dominican Republic - The Craft of Hip Hop
