@@ -5,15 +5,6 @@
 - type: youtube
   id: 0mHLIrLvmNQ
 - type: youtube
-  id: AuzYSjOE0Ms
-  title: Grand Pavilion - Touch
-- type: youtube
-  id: xJMMdcLEgbs
-  title: Naked 3D Fitness Tracker
-- type: youtube
-  id: NytGzDhMnA0
-  title: Young The Giant - Silvertongue
-- type: youtube
   id: lv5uC6cfO5c
 - type: youtube
   id: P-zb4C_k7Ek
@@ -24,6 +15,15 @@
   id: QmWZQW5XHjo
 - type: vimeo
   id: 198266283
+- type: youtube
+  id: AuzYSjOE0Ms
+  title: Grand Pavilion - Touch
+- type: youtube
+  id: xJMMdcLEgbs
+  title: Naked 3D Fitness Tracker
+- type: youtube
+  id: NytGzDhMnA0
+  title: Young The Giant - Silvertongue
 - type: youtube
   id: BS74kXPRyoc
   title: Night Riots - Nothing Personal
