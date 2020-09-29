@@ -2,6 +2,19 @@
   id: dZj70ruCc6U
 - type: youtube
   id: F62VRI3aguA
+- type: youtube
+  id: J7aAKMzi4zw
+  title: Polyphia | Look But Don’t Touch (WARNING! VERY NSFW)
+- type: youtube
+  id: FBIkUV4I1aU
+- type: youtube
+  id: P-zb4C_k7Ek
+  title: Korn - Insane
+- type: youtube
+  id: 5kr69I9e9fY
+- type: vimeo
+  title: Audi R8 x Iron Man 3
+  id: 65794827
 - type: vimeo
   id: 440365637
 - type: youtube
@@ -17,8 +30,6 @@
 - type: youtube
   id: 9YvpJE3esf4
 - type: youtube
-  id: 5kr69I9e9fY
-- type: youtube
   id: Y-r8DQepS6k
 - type: youtube
   id: P1A5l8sKugg
@@ -30,9 +41,6 @@
 - type: youtube
   id: 7RXst03JCos
 - type: youtube
-  id: J7aAKMzi4zw
-  title: Polyphia | Look But Don’t Touch (WARNING! VERY NSFW)
-- type: youtube
   id: LZ3cLwKEr8Y
 - type: youtube
   id: tOD0vHKHvAU
@@ -41,8 +49,6 @@
   id: eYLzlH587VM
 - type: youtube
   id: 6_LNMiSqpMU
-- type: youtube
-  id: FBIkUV4I1aU
 - type: youtube
   id: 2hln1TOQUZ0
 - type: youtube
@@ -76,9 +82,6 @@
   id: 9nClDPbcqS4
 - type: youtube
   id: lv5uC6cfO5c
-- type: youtube
-  id: P-zb4C_k7Ek
-  title: Korn - Insane
 - type: youtube
   id: z0EY-vQXRwc
 - type: youtube
@@ -125,9 +128,6 @@
 - type: youtube
   id: 3JzktnhcPaY
   title: Red Sun Rising - Amnesia  
-- type: vimeo
-  title: Audi R8 x Iron Man 3
-  id: 65794827
 - type: vimeo
   title: Diamondstein - Nat Sherman Arpeggiator
   id: 131379779
