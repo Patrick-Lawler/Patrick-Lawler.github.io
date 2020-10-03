@@ -17,18 +17,8 @@ title: Director of Photography | Patrick Lawler
 </div>
 
 <div class="secondary-container">
-  <div class="container-12 no-bot-margin">
-    <div class="sub-head left grid-6">
-      <a class="rent-red-link pbox" href="#rent-red">
-        <img class="rent-red-image" src="/images/red%20logo.png" alt="Red Logo" />
-        <span class="rent-red-label">{{site.data.redrental.lightbox_link_text}}</span>
-      </a>
-      <div id="rent-red" style="display: none;">
-        <span>{{site.data.redrental.lightbox_text}}</span>
-        <a href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a>
-        <a href="{{site.data.redrental.file_url}}" target="_blank">{{site.data.redrental.pdf_link_text}}</a>
-      </div>
-    </div><div class="sub-head right grid-6">
+  <div class="contact-info-container container-12 no-bot-margin">
+    <div class="sub-head right grid-6">
       <a class="contact-info" href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a>
       <span class="contact-info">{{site.data.contact.phone}}</span>
       <ul class="socialmedia">
@@ -39,6 +29,8 @@ title: Director of Photography | Patrick Lawler
         {% endfor %}
       </ul>
     </div>
+  </div>
+  <div class="container-12 no-bot-margin">
     <!--
     {% for video in site.data.videos %}
     --><a class="pvideo ibox grid-4 {{video.type}}" data-id="{{video.id}}"
@@ -61,6 +53,3 @@ title: Director of Photography | Patrick Lawler
   </div>
   <!-- end .container-16 -->
 </div>
-
-
-

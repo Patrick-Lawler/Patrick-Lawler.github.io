@@ -8,9 +8,6 @@ The hero has the following properties:
 - ```reel_height```: The reel video's height.
 - ```reel_width```: The reel video's width.
 
-### [Edit your red rental info](https://github.com/Patrick-Lawler/Patrick-Lawler.github.io/edit/master/_data/redrental.yml)
-- If you need to upload a new pdf, just use google drive or dropbox to upload it and then replace ```pdf_link_text``` with the new url.
-
 ### [Edit your contact info](https://github.com/Patrick-Lawler/Patrick-Lawler.github.io/edit/master/_data/contact.yml)
 
 ### [Edit your videos](https://github.com/Patrick-Lawler/Patrick-Lawler.github.io/edit/master/_data/videos.yml)

@@ -163,23 +163,8 @@ p {
   min-height: 42px;
   font-weight: 300;
 }
-.rent-red-link,
-.rent-red-link:hover {
-  padding-left: 13px;
-  text-transform: uppercase;
-  width: 100%;
-  height: 100%;
-  display: block;
-  text-decoration: none;
-  color: #0F0F0F;
-  text-shadow: 0 0 1px #FFFFFF, 0 1px 1px rgba(0, 0, 0, 0.3);
-  letter-spacing: -0.01em;
-  font-weight: 100;
-}
-.rent-red-label {
-  vertical-align: middle;
-  font-size: 24px;
-  white-space: nowrap;
+.contact-info-container {
+    text-align: center;
 }
 #rent-red {
   padding: 50px;
@@ -234,4 +219,3 @@ z-index: 9999;
     height: 60%;
   }
 }
-
